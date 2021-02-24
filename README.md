@@ -5,3 +5,20 @@ Sqlite is used to create databases and manage the data.
 
 When you create a new poll, a new database is created to store the casted votes.
 I have created a sample poll: 'myelection' which incudes 3 candidates
+
+# Releases
+Latest: v1.0
+
+# Updates
+Coming Soon
+
+# Libraries Used
+1. Tkinter
+2. Matplotlib
+3. Sqlite3
+
+# Installation
+```
+pip install matplotlib
+```
+>Sqlite3 and Tkinter are already installed with your python IDE.
